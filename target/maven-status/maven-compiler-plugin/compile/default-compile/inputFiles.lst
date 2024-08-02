@@ -1,6 +1,9 @@
 /workspaces/bas_spboot_den1/src/main/java/com/example/demo/entity/User.java
 /workspaces/bas_spboot_den1/src/main/java/com/example/demo/controller/UserController.java
+/workspaces/bas_spboot_den1/src/main/java/com/example/demo/controller/GlobalExceptionHandler.java
 /workspaces/bas_spboot_den1/src/main/java/com/example/demo/service/UserService.java
+/workspaces/bas_spboot_den1/src/main/java/com/example/demo/controller/HomeController.java
+/workspaces/bas_spboot_den1/src/main/java/com/example/demo/controller/CustomErrorController.java
 /workspaces/bas_spboot_den1/src/main/java/com/example/demo/DemoApplication.java
 /workspaces/bas_spboot_den1/src/main/java/com/example/demo/controller/HelloController.java
 /workspaces/bas_spboot_den1/src/main/java/com/example/demo/repository/UserRepository.java
